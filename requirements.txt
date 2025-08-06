@@ -1,0 +1,5 @@
+opencv-python
+mysql-connector-python
+deepface
+geopy
+twilio
