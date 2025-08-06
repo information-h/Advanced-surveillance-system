@@ -138,4 +138,5 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE 
 SOFTWARE.
 
-If you want, I can generate the actual GitHub `README.md` file or zip the folder for upload. Just say the word.
+> ✨ Parts of this project were ideated and structured with assistance from ChatGPT (OpenAI).
+
